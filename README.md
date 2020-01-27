@@ -1,7 +1,7 @@
 # flujo-carga
  flujo de carga NEWTON RAPHSON
  %FLUJO DE POTENCIA
- %JHONY LOZANO
+ %CARLOS SALDARRIAGA
  %FECHA: 7 FEB 2019
 
  clc        %limpia pantalla
